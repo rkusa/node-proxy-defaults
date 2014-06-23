@@ -1,6 +1,6 @@
 # node-proxy-defaults
 
-Default handlers/traps for the [obsolete es6 proxies](http://wiki.ecmascript.org/doku.php?do=show&id=harmony:proxies#trap_defaults) (that is currently used in Webkit and therefore in Node).
+Default handlers/traps for the [obsolete es6 proxies](http://wiki.ecmascript.org/doku.php?do=show&id=harmony:proxies#trap_defaults) (that are currently used in Webkit and therefore in Node).
 
 [![NPM][npm]](https://npmjs.org/package/node-proxy-defaults)
 
