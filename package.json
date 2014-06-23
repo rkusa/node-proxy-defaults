@@ -1,0 +1,24 @@
+{
+  "name": "node-proxy-defaults",
+  "version": "1.0.0",
+  "description": "Default handlers/traps for es6 proxies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rkusa/node-proxy-defaults.git"
+  },
+  "keywords": [
+    "es6",
+    "harmony",
+    "proxy"
+  ],
+  "author": "Markus Ast <npm.m@rkusa.st>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rkusa/node-proxy-defaults/issues"
+  },
+  "homepage": "https://github.com/rkusa/node-proxy-defaults"
+}
